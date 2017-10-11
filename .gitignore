@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/LoginAppReactJS.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+dropboxV1/.DS_Store
+dropboxV1/README.txt
+dropboxV1/nodelogin/
+dropboxV1/reactlogin/.gitignore
+dropboxV1/reactlogin/.idea/
+dropboxV1/reactlogin/README.md
+dropboxV1/reactlogin/package.json
+dropboxV1/reactlogin/public/
+dropboxV1/reactlogin/src/
+dropboxV1/reactlogin/yarn.lock
+node_modules/
